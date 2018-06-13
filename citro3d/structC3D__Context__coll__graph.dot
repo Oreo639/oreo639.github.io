@@ -1,0 +1,31 @@
+digraph "C3D_Context"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="C3D_Context",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" fixedAttribs" ,fontname="Helvetica"];
+  Node2 [label="C3D_FVec",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unionC3D__FVec.html",tooltip="Float vector. "];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" fb" ,fontname="Helvetica"];
+  Node3 [label="C3D_FrameBuf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__FrameBuf.html"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" procTexColorLut" ,fontname="Helvetica"];
+  Node4 [label="C3D_ProcTexColorLut",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__ProcTexColorLut.html"];
+  Node5 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" effect" ,fontname="Helvetica"];
+  Node5 [label="C3D_Effect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__Effect.html"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" bufInfo" ,fontname="Helvetica"];
+  Node6 [label="C3D_BufInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__BufInfo.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" buffers" ,fontname="Helvetica"];
+  Node7 [label="C3D_BufCfg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__BufCfg.html"];
+  Node8 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" fogLut" ,fontname="Helvetica"];
+  Node8 [label="C3D_FogLut",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__FogLut.html"];
+  Node9 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" texEnv" ,fontname="Helvetica"];
+  Node9 [label="C3D_TexEnv",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__TexEnv.html"];
+  Node10 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" tex" ,fontname="Helvetica"];
+  Node10 [label="C3D_Tex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__Tex.html"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" cube" ,fontname="Helvetica"];
+  Node11 [label="C3D_TexCube",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__TexCube.html"];
+  Node12 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" attrInfo" ,fontname="Helvetica"];
+  Node12 [label="C3D_AttrInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__AttrInfo.html"];
+  Node13 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" procTex" ,fontname="Helvetica"];
+  Node13 [label="C3D_ProcTex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__ProcTex.html"];
+}

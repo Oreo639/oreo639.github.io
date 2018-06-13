@@ -1,0 +1,48 @@
+digraph "include/c3d/light.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node7 [label="include/c3d/light.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="include/citro3d.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$citro3d_8h.html"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="include/tex3ds.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$tex3ds_8h.html",tooltip="tex3ds support "];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="source/tex3ds.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$tex3ds_8c.html",tooltip="Tex3DS routines. "];
+  Node7 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="source/internal.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$internal_8h.html"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="source/attribs.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$attribs_8c.html"];
+  Node11 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="source/base.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$base_8c.html"];
+  Node11 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="source/buffers.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$buffers_8c.html"];
+  Node11 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="source/drawArrays.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$drawArrays_8c.html"];
+  Node11 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="source/drawElements.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$drawElements_8c.html"];
+  Node11 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="source/effect.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$effect_8c.html"];
+  Node11 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="source/fog.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$fog_8c.html"];
+  Node11 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="source/framebuffer.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$framebuffer_8c.html"];
+  Node11 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="source/immediate.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$immediate_8c.html"];
+  Node11 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="source/light.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$light_8c.html"];
+  Node11 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="source/lightenv.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$lightenv_8c.html"];
+  Node11 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="source/lightlut.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$lightlut_8c.html"];
+  Node11 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="source/proctex.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$proctex_8c.html"];
+  Node11 -> Node25 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="source/renderqueue.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$renderqueue_8c.html"];
+  Node11 -> Node26 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node26 [label="source/texenv.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$texenv_8c.html"];
+  Node11 -> Node27 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 [label="source/texture.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$texture_8c.html"];
+  Node11 -> Node28 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node28 [label="source/uniforms.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uniforms_8c.html"];
+}
