@@ -10,6 +10,7 @@ var searchData=
   ['c3d_5ffquat',['C3D_FQuat',['../structC3D__FQuat.html',1,'']]],
   ['c3d_5fframebuf',['C3D_FrameBuf',['../structC3D__FrameBuf.html',1,'']]],
   ['c3d_5ffvec',['C3D_FVec',['../unionC3D__FVec.html',1,'']]],
+  ['c3d_5fgaslut',['C3D_GasLut',['../structC3D__GasLut.html',1,'']]],
   ['c3d_5flight_5ft',['C3D_Light_t',['../structC3D__Light__t.html',1,'']]],
   ['c3d_5flightconf',['C3D_LightConf',['../structC3D__LightConf.html',1,'']]],
   ['c3d_5flightenv_5ft',['C3D_LightEnv_t',['../structC3D__LightEnv__t.html',1,'']]],

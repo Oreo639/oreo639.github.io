@@ -14,6 +14,5 @@ var searchData=
   ['tex3ds_5ftextureimportstdio',['Tex3DS_TextureImportStdio',['../tex3ds_8h.html#a2840b76f4ce3a0f86e2d86b37dcb923e',1,'Tex3DS_TextureImportStdio(FILE *fp, C3D_Tex *tex, C3D_TexCube *texcube, bool vram):&#160;tex3ds.c'],['../tex3ds_8c.html#a2840b76f4ce3a0f86e2d86b37dcb923e',1,'Tex3DS_TextureImportStdio(FILE *fp, C3D_Tex *tex, C3D_TexCube *texcube, bool vram):&#160;tex3ds.c']]],
   ['tex3dsi_5fimportcommon',['Tex3DSi_ImportCommon',['../tex3ds_8c.html#abd001a6f62ec69d9da72522d3f1f1299',1,'tex3ds.c']]],
   ['tex3dsi_5freaddata',['Tex3DSi_ReadData',['../tex3ds_8c.html#a8bbecb5a0b74a292885c2b1d7d0fb318',1,'tex3ds.c']]],
-  ['texenv_5finit',['TexEnv_Init',['../texenv_8h.html#a617b679c5f5bb373800106ccee1c48e9',1,'texenv.h']]],
   ['typeiscube',['typeIsCube',['../internal_8h.html#a8cbe59009d473ba1cf513354cd107951',1,'internal.h']]]
 ];

@@ -25,7 +25,6 @@ var searchData=
   ['texenv',['texEnv',['../structC3D__Context.html#a8486fedaae5bf7f482025dae985ba2a3',1,'C3D_Context']]],
   ['texenv_2ec',['texenv.c',['../texenv_8c.html',1,'']]],
   ['texenv_2eh',['texenv.h',['../texenv_8h.html',1,'']]],
-  ['texenv_5finit',['TexEnv_Init',['../texenv_8h.html#a617b679c5f5bb373800106ccee1c48e9',1,'texenv.h']]],
   ['texenvbuf',['texEnvBuf',['../structC3D__Context.html#a6f4d132b6ca1fc9f34950906503001cb',1,'C3D_Context']]],
   ['texenvbufclr',['texEnvBufClr',['../structC3D__Context.html#afaed4c017fd633865ba04d253b27d934',1,'C3D_Context']]],
   ['texshadow',['texShadow',['../structC3D__Context.html#ad90188948cd28d5680fc62a4b699d195',1,'C3D_Context']]],

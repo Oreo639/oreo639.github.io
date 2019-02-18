@@ -28,6 +28,8 @@ var searchData=
   ['c3dif_5feffect',['C3DiF_Effect',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0a41c3bdee41a5dc274fbc94cba86c759e',1,'internal.h']]],
   ['c3dif_5ffoglut',['C3DiF_FogLut',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0a915315f3737ad1bc187a652599d279ea',1,'internal.h']]],
   ['c3dif_5fframebuf',['C3DiF_FrameBuf',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0ad1f5425c52686bfa909b5e944c3f0543',1,'internal.h']]],
+  ['c3dif_5fgas',['C3DiF_Gas',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0a119e5ad9b004ff5f9ba5fd4e5f315459',1,'internal.h']]],
+  ['c3dif_5fgaslut',['C3DiF_GasLut',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0ad555487ca8479e1249d7040436c4853d',1,'internal.h']]],
   ['c3dif_5fgshcode',['C3DiF_GshCode',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0a85ea08290dfc6320a7cadd9d81157c28',1,'internal.h']]],
   ['c3dif_5flightenv',['C3DiF_LightEnv',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0aa3ad35da9c183b05faad59af8b12a59d',1,'internal.h']]],
   ['c3dif_5fproctex',['C3DiF_ProcTex',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0ace0cdbd9a0d9c58871a5cd7015b578b7',1,'internal.h']]],
@@ -40,5 +42,9 @@ var searchData=
   ['c3dif_5ftexenvbuf',['C3DiF_TexEnvBuf',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0a8cd84b5e5096e0a36d1814c45ab6af08',1,'internal.h']]],
   ['c3dif_5ftexstatus',['C3DiF_TexStatus',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0abf861f17928b72f60c3b14adee71c055',1,'internal.h']]],
   ['c3dif_5fviewport',['C3DiF_Viewport',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0a44bed54f1738cafab64fc1435640eed7',1,'internal.h']]],
-  ['c3dif_5fvshcode',['C3DiF_VshCode',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0a3b6b45accda62e2542d2d8d72e3bd24e',1,'internal.h']]]
+  ['c3dif_5fvshcode',['C3DiF_VshCode',['../internal_8h.html#ae8a3b6a5d0d3244ed73924ab2421a0d0a3b6b45accda62e2542d2d8d72e3bd24e',1,'internal.h']]],
+  ['c3dig_5faccstage',['C3DiG_AccStage',['../internal_8h.html#af715e26dfffd1f8de1c18449e2770cffac9dc684c6cf91e55c6155a9c01167cab',1,'internal.h']]],
+  ['c3dig_5fbeginacc',['C3DiG_BeginAcc',['../internal_8h.html#af715e26dfffd1f8de1c18449e2770cffa557b7a7b4e40b999d01d24c811fe9575',1,'internal.h']]],
+  ['c3dig_5frenderstage',['C3DiG_RenderStage',['../internal_8h.html#af715e26dfffd1f8de1c18449e2770cffa63a268e626cd80e1d51e85d48202d91c',1,'internal.h']]],
+  ['c3dig_5fsetaccmax',['C3DiG_SetAccMax',['../internal_8h.html#af715e26dfffd1f8de1c18449e2770cffab0a87112138f6dae612a60507c2f18f0',1,'internal.h']]]
 ];

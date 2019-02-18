@@ -1,8 +1,9 @@
 digraph "C3D_Tex"
 {
+ // LATEX_PDF_SIZE
   edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
   node [fontname="Helvetica",fontsize="10",shape=record];
-  Node1 [label="C3D_Tex",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 [label="C3D_Tex",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
   Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" cube" ,fontname="Helvetica"];
-  Node2 [label="C3D_TexCube",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__TexCube.html"];
+  Node2 [label="C3D_TexCube",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structC3D__TexCube.html",tooltip=" "];
 }

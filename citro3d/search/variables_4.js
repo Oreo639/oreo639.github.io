@@ -6,7 +6,7 @@ var searchData=
   ['depthfmtsizes',['depthFmtSizes',['../framebuffer_8c.html#ad46635de8ecdf5233dc97c2aae574dc3',1,'framebuffer.c']]],
   ['depthmask',['depthMask',['../structC3D__FrameBuf.html#a119f328578c7558842fc8ee1b70686ec',1,'C3D_FrameBuf']]],
   ['depthtest',['depthTest',['../structC3D__Effect.html#a9a3ce17163873e2ab5e48ab1e305bae0',1,'C3D_Effect']]],
-  ['diff',['diff',['../structC3D__ProcTexColorLut.html#a425d834e08abcb27937115288e7d389d',1,'C3D_ProcTexColorLut']]],
+  ['diff',['diff',['../structC3D__GasLut.html#a9107c165ee5ffd76d2fc9ba3deeeb0ab',1,'C3D_GasLut::diff()'],['../structC3D__ProcTexColorLut.html#a425d834e08abcb27937115288e7d389d',1,'C3D_ProcTexColorLut::diff()']]],
   ['diffuse',['diffuse',['../structC3D__Material.html#af1134f7d0169c44b1c5ed30e9abc679f',1,'C3D_Material::diffuse()'],['../structC3D__LightMatConf.html#a0601db80ceebee51f626b13b472d17ef',1,'C3D_LightMatConf::diffuse()'],['../structC3D__Light__t.html#adddfc76dcb6ef3e97db29e5b976c40fe',1,'C3D_Light_t::diffuse()']]],
   ['dim',['dim',['../structC3D__Tex.html#ae81d5f956866ea711f644ba287743158',1,'C3D_Tex']]],
   ['dirty',['dirty',['../uniforms_8c.html#ad25edacba00e4d0666a9959053b7cc10',1,'uniforms.c']]],
